@@ -8,7 +8,7 @@ identity: Mingda Xie
 
 email:    xiemingda2020@gmail.com
 github:   https://github.com/M1ngdaXie
-website:  https://m1ngdaxie.com
+website:  https://os.m1ngdaxie.com
 pgp:      8C50 AD5D CE0E 949E 39FA  F19D 609C 704E 544A 0BFD
 -----BEGIN PGP SIGNATURE-----
 
